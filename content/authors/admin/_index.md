@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: AI, Stats, Biostats Consultant
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Lei 
+last_name: Li
 
 # Status emoji
 status:
@@ -20,18 +20,18 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Chief Consultant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: 
+    url: 
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'sddxlilei@gmail.com'
     label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
@@ -52,12 +52,12 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Statistics
+    institution: George Mason University
+    date_start: 08-2015
+    date_end: 05-2020
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on "Robust Divergence Estimation for Data with Latent Structure" . Supervised by [Prof Anand Vidyashankar]([https://example.com](https://statistics.gmu.edu/profiles/avidyash)). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -183,4 +183,7 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lei Li is a Statistician, a Biostatistician, an AI enthusiasm and an Entrepreneur. He worked for Food and Drug Administration, Edwards Lifesciences, and Sanofi 
+His research interests include a). Statistics: statistics such as High Dimensional Statistics, Robust Statistics, Risk Theory in Healthcare, Sequential Design, and Clinical Trial Design; b). Machine/Deep Learning: Reinforcement Learning for time series and biomarker discovery, Robust Variational Autoencoder, Diffusion Models, LLM, 
+
+
