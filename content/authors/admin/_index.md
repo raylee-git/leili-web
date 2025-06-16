@@ -57,7 +57,7 @@ education:
     date_start: 08-2015
     date_end: 05-2020
     summary: |
-      Thesis on "Robust Divergence Estimation for Data with Latent Structure" . Supervised by [Prof Anand Vidyashankar]([https://example.com](https://statistics.gmu.edu/profiles/avidyash)). 
+      Thesis on Robust Divergence Estimation for Data with Latent Structure. Supervised by [Prof Anand Vidyashankar]([https://example.com](https://statistics.gmu.edu/profiles/avidyash)). 
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
