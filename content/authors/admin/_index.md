@@ -79,7 +79,7 @@ education:
       
       
 work:
-  - position: Statistical Project Leader, Deputy Director 
+  - position: Statistical Project Leader Deputy Director 
     company_name: Sanofi
     company_url: ''
     company_logo: ''
@@ -87,7 +87,7 @@ work:
     date_end: 2025-04-02
     summary: |2-
       Responsibilities include:
-      - Contribute to the success launch of the first Rare Disease Drug for Hemophilia Qfitlia (fitusiran)
+      - Contribute to the success launch of the first Rare Disease Drug for Hemophilia Qfitlia fitusiran
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Principal Biostatistician
