@@ -180,4 +180,5 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lei Li is an AI and Statistical Consultant. He worked for FDA, Edwards Lifesciences, and Sanofi. He has biostatistical expertise in various fields including medical devices, cardiovascular study, rare disease, and vaccines. He currently focuses on applying AI techniques to automating stock pricing platform and drug discovery. Academically, he is interested in reinforcement learning, diffusion models, transformer, robust statistics, privacy risk analysis, and sequential design. 
+
