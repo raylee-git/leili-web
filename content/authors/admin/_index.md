@@ -79,7 +79,7 @@ education:
 work:
   - position: Statistical Project Leader Deputy Director 
     company_name: Sanofi
-    company_url: https://www.sanofi.com/en
+    company_url: 'https://www.sanofi.com/en'
     company_logo: ''
     date_start: 2023-05-26
     date_end: 2025-04-02
@@ -89,7 +89,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
   - position: Principal Biostatistician
     company_name: Edwards Lifesciences
-    company_url: ''
+    company_url: 'https://www.edwards.com/'
     company_logo: ''
     date_start: 2022-04-13
     date_end: 2023-04-18
