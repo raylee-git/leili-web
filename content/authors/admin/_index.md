@@ -59,7 +59,7 @@ education:
     date_start: 2015-08-30
     date_end: 2020-05-30
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Robust Inference for Data with Latent Structure. Supervised by [Prof Anand N Vidyashankar](https://anandnv.squarespace.com/). Presented papers at statistical conferences such as JSM with the contributions being published in peer reviewed stats journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
