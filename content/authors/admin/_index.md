@@ -68,20 +68,18 @@ education:
     date_start: 2013-08-26
     date_end: 2015-05-31
     summary: |
-      GPA: 3.8/4.0
+      Took graduate level courses from both Mathematical and Statistical Department, built a strong foundation for math and stats theory.
 
   - area: BS Mathematics
     institution: Shandong University
     date_start: 2009-09-01
     date_end: 2013-06-30
     summary: |
-      GPA: 3.4/4.0
-      
-      
+            
 work:
   - position: Statistical Project Leader Deputy Director 
     company_name: Sanofi
-    company_url: ''
+    company_url: https://www.sanofi.com/en
     company_logo: ''
     date_start: 2023-05-26
     date_end: 2025-04-02
