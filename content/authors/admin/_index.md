@@ -24,15 +24,15 @@ role: Chief Consultant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: 
-    url: 
+  - name: Independent Consultant
+    url: ''
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'sddxlilei@gmail.com'
-    label: E-mail Me
+    url: 'mailto:sddxlilei@gmail.com'
+    label: E-mail
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
@@ -57,7 +57,7 @@ education:
     date_start: 08-2015
     date_end: 05-2020
     summary: |
-      Thesis on Robust Divergence Estimation for Data with Latent Structure. Supervised by [Prof Anand Vidyashankar]([https://example.com](https://statistics.gmu.edu/profiles/avidyash)). 
+      Thesis on Robust Divergence Estimation for Data with Latent Structure. Supervised by [Prof Anand Vidyashankar]([https://example.com](https://statistics.gmu.edu/profiles/avidyash))
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -90,7 +90,7 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |2-
+    summary: |
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
