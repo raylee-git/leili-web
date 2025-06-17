@@ -97,7 +97,17 @@ work:
       Responsibilities include:
       - Leading several cardiovascular clinical studies with SAP design
       - Main Stats Analysis Methodology involves Win Ratio Method
-  
+  - position: Mathematical Statistician
+    company_name: Food and Drug Administration
+    company_url: https://www.fda.gov/
+    company_logo: ''
+    date_start: 2020-09-13
+    date_end: 2022-04-12
+    summary: |
+      Responsibilities include:
+      - Serve as Mathematical Statistician to provide statistical expertise in the review of medical devices submissions for IDE, 501k, and PMA to assess the safety and efficacy of medical devices.
+      - Perform statistical reviews of study protocols to determine whether or not data collected will be scientifically and statistically valid and whether or not proper design principles will be employed.
+      - Evaluates manufacturer’s data to determine if mathematical and statistical methods, procedures, and concepts used in support of tests, research, and clinical claims made are supported by valid statistical analysis.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
