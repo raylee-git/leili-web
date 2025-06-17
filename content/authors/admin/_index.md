@@ -47,15 +47,16 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Deep Learning: Reinforcement Learning, Transformer, Diffusion Models
+  - High Dimensional Robust Statistics
+  - Biostatistics: Causal Inference, Sequential Design, Clinical Trial Design, Non-parametric Inference
+  - Variational Inference
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: PhD Statistics
+    institution: George Mason University
+    date_start: 08-2015
+    date_end: 05-2020
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
