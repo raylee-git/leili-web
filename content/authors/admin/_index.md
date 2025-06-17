@@ -107,12 +107,7 @@ work:
       Responsibilities include:
       - Serve as Mathematical Statistician to provide statistical expertise in the review of medical devices submissions for IDE, 501k, and PMA to assess the safety and efficacy of medical devices.
       - The duties primarily consist of evaluating the scientific data from real-world data sources, as well as the test methods and descriptions of devices contained in medical device submissions from industry to the Agency.
-      - Perform statistical reviews of study protocols to determine whether or not data collected will be scientifically and statistically valid and whether or not proper design principles will be employed.
-      - Evaluates manufacturer’s data to determine if mathematical and statistical methods, procedures, and concepts used in support of tests, research, and clinical claims made are supported by valid statistical analysis.
-      - Requests additional information, data, and appropriate analyses from the sponsor when the material submitted is determined to be inadequate to make the necessary statistical evaluations.
-      - Provide statistical consultation and guidance to CDRH personnel, medical device sponsors, potential sponsors, their consultants, and investigators on all statistical aspects of medical device submissions.
-      - Represents FDA in meetings with sponsors and at FDA advisory panel meetings to assure the mathematical and statistical validity of data and analyses submitted in support of medical device applications.
-
+      - Specialized in Real World Evidence Study with propensity score methodology.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
