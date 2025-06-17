@@ -1,6 +1,7 @@
 ---
 # Display name
 title: 李磊
+avatar: avatar.jpg
 
 # Name pronunciation (optional)
 name_pronunciation: Lei Li
