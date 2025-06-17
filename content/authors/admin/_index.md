@@ -63,51 +63,42 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: MS Statistics
+    institution: The George Washington University
+    date_start: 2013-08-26
+    date_end: 2015-05-31
     summary: |
       GPA: 3.8/4.0
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BS Mathematics
+    institution: Shandong University
+    date_start: 2009-09-01
+    date_end: 2013-06-30
     summary: |
       GPA: 3.4/4.0
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Statistical Project Leader, Deputy Director 
+    company_name: Sanofi
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2023-05-26
+    date_end: 2025-04-02
     summary: |2-
       Responsibilities include:
+      - Contribute to the success launch of the first Rare Disease Drug for Hemophilia Qfitlia (fitusiran)
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Principal Biostatistician
+    company_name: Edwards Lifesciences
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-04-13
+    date_end: 2023-04-18
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Leading several cardiovascular clinical studies with SAP design
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
