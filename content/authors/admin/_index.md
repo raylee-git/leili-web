@@ -96,6 +96,7 @@ work:
     summary: |
       Responsibilities include:
       - Leading several cardiovascular clinical studies with SAP design
+      - Main Stats Analysis Methodology involves Win Ratio Method
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
