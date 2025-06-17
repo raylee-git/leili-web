@@ -47,10 +47,11 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Deep Learning: Reinforcement Learning, Transformer, Diffusion Models
+  - Deep Learning
   - High Dimensional Robust Statistics
-  - Biostatistics: Causal Inference, Sequential Design, Clinical Trial Design, Non-parametric Inference
+  - Biostatistics
   - Variational Inference
+  - Bayesian Inference
 
 education:
   - area: PhD Statistics
