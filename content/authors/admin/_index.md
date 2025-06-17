@@ -181,5 +181,9 @@ awards:
 
 ## About Me
 
-Lei Li is an AI and Statistical Consultant. He worked for FDA, Edwards Lifesciences, and Sanofi. He has biostatistical expertise in various fields including medical devices, cardiovascular study, rare disease, and vaccines. He currently focuses on applying AI techniques to automating stock pricing platform and drug discovery. Academically, he is interested in reinforcement learning, diffusion models, transformer, robust statistics, privacy risk analysis, and sequential design. 
+Lei Li is an AI and Statistical Consultant with industry experience at Food and Drug Administration, Edwards Lifesciences, and Sanofi. He brings biostatistical expertise across a range of domains, including medical devices, cardiovascular research, rare diseases, and vaccine development. 
+
+His current work focuses on applying advanced AI techniques to diverse areas such as automated stock price modeling, clinical trial automation delivery (including SAP, table, listing, and figure [TLF] generation), and biomarker analysis.
+
+Academically, his interests span reinforcement learning, diffusion models, transformer architectures, high-dimensional statistics, robust inference, causal inference, privacy and risk analysis, and sequential trial design.
 
