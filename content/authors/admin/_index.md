@@ -110,20 +110,17 @@ work:
       - Specialized in Real World Evidence Study with propensity score methodology.
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
+Software skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
+      - name: Python and Pytorch
+        description: ''        
         icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
+      - name: R
+        description: ''        
         icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
+      - name: SAS
+        description: ''        
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -133,11 +130,11 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Basketball
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Vacation
         description: ''
         percent: 80
         icon: camera
@@ -146,9 +143,8 @@ languages:
   - name: English
     percent: 100
   - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+    percent: 100
+  
 
 # Awards.
 #   Add/remove as many awards below as you like.
