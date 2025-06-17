@@ -1,13 +1,13 @@
 ---
 # Display name
-title: AI, Stats, Biostats Consultant
+title: 吳健雄
 
 # Name pronunciation (optional)
-# name_pronunciation: Chien Shiung Wu
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
-first_name: Lei 
-last_name: Li
+first_name: Shiung Wu
+last_name: Chien
 
 # Status emoji
 status:
@@ -20,19 +20,19 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Consultant
+role: Chief Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Independent Consultant
-    url: ''
+  - name: OpenAI
+    url: https://openai.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:sddxlilei@gmail.com'
-    label: E-mail
+    url: 'mailto:your-email@example.com'
+    label: E-mail Me
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
@@ -52,12 +52,12 @@ interests:
   - Information Retrieval
 
 education:
-  - area: PhD Statistics
-    institution: George Mason University
-    date_start: 08-2015
-    date_end: 05-2020
+  - area: PhD Artificial Intelligence
+    institution: Stanford University
+    date_start: 2016-01-01
+    date_end: 2020-12-31
     summary: |
-      Thesis on Robust Divergence Estimation for Data with Latent Structure. Supervised by [Prof Anand Vidyashankar]([https://example.com](https://statistics.gmu.edu/profiles/avidyash))
+      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -90,7 +90,7 @@ work:
     company_logo: ''
     date_start: 2021-01-01
     date_end: ''
-    summary: |
+    summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -183,7 +183,4 @@ awards:
 
 ## About Me
 
-Lei Li is a Statistician, a Biostatistician, an AI enthusiasm and an Entrepreneur. He worked for Food and Drug Administration, Edwards Lifesciences, and Sanofi 
-His research interests include a). Statistics: statistics such as High Dimensional Statistics, Robust Statistics, Risk Theory in Healthcare, Sequential Design, and Clinical Trial Design; b). Machine/Deep Learning: Reinforcement Learning for time series and biomarker discovery, Robust Variational Autoencoder, Diffusion Models, LLM, 
-
-
+Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
