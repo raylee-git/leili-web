@@ -1,16 +1,16 @@
 ---
 title: "An example journal article"
 authors:
-- admin
-- Robert Ford
+- Anand N Vidyashankar
+- Lei Li
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2015-09-01T00:00:00Z"
+date: "2019-02-25T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-02-25T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -18,13 +18,13 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of Source Themes, 1*(1)"
+publication: "Stochastic Models"
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Branching processes in random environments arise in a variety of applications such as biology, finance, and other contemporary scientific areas. Motivated by these applications, this article investigates the problem of ancestral inference. Specifically, the article develops point and interval estimates for the mean number of ancestors initiating a branching process in i.i.d. random environments and establishes their asymptotic properties when the number of replications diverges to infinity. These results are then used to quantitate the number of DNA molecules in a genetic material using data from polymerase chain reaction experiments. Numerical experiments and data analyses are included to support the proposed methods. An R software package for implementing the methods of this manuscript is also included.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Ancestral Inference, BPRE
 
 tags:
 - Source Themes
@@ -32,9 +32,9 @@ featured: false
 
 # links:
 # - name: ""
-#   url: ""
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url: https://www.tandfonline.com/doi/full/10.1080/15326349.2019.1588133?casa_token=sDyVFYPhs9UAAAAA%3AY1dd2NopXywmZm2IjYl8eYoVpfT8YPHsJbC5lD9umhiPDb9u2oHQih1DMSnWj613uheYV4vkgtfpbA
+# url_pdf: http://arxiv.org/pdf/1512.04133v1
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
 url_poster: ''
 url_project: ''
