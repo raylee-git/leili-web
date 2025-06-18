@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Robust Inference after Random Projections via Hellinger Distance for Location-Scale Family'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -22,11 +22,11 @@ publishDate: '2019-03-29T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['peer-reviewed-paper']
 
 # Publication name and optional abbreviated publication name.
 publication: In *Entropy*
-# publication_short: In *ICW*
+# publication_short: In *Entropy*
 
 abstract: Big data and streaming data are encountered in a variety of contemporary applications in business and industry. In such cases, it is common to use random projections to reduce the dimension of the data yielding compressed data. These data however possess various anomalies such as heterogeneity, outliers, and round-off errors which are hard to detect due to volume and processing challenges. This paper describes a new robust and efficient methodology, using Hellinger distance, to analyze the compressed data. Using large sample methods and numerical experiments, it is demonstrated that a routine use of robust estimation procedure is feasible. The role of double limits in understanding the efficiency and robustness is brought out, which is of independent interest.
 
@@ -42,16 +42,16 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#   url: https://pmc.ncbi.nlm.nih.gov/articles/PMC7514831/
 
-url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://pmc.ncbi.nlm.nih.gov/articles/PMC7514831/pdf/entropy-21-00348.pdf
+# url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+# url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -66,7 +66,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - example
+  - High Dimension Reduction
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
