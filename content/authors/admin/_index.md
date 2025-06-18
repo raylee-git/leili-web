@@ -42,7 +42,7 @@ profiles:
     url: https://github.com/gcushen
   # - icon: brands/linkedin
     url: https://www.linkedin.com/
-  # - icon: academicons/google-scholar
+  - icon: academicons/google-scholar
     url: https://scholar.google.com/
   
 
@@ -68,7 +68,7 @@ education:
     date_start: 2013-08-26
     date_end: 2015-05-31
     summary: |
-      Took graduate level courses from both Mathematical and Statistical Department, built a strong foundation for math and stats theory.
+      Took graduate level courses from both Mathematical and Statistical Department
 
   - area: BS Mathematics
     institution: Shandong University
@@ -83,10 +83,11 @@ work:
     company_logo: ''
     date_start: 2023-05-26
     date_end: 2025-04-02
-    summary: |2-
+    summary: |-
       Responsibilities include:
-      - Contribute to the success launch of the first Rare Disease Drug for Hemophilia Qfitlia fitusiran
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Statistical Leader for vaccine clinical trials varying from translational studies to phase I-III studies.
+      - Innovative group methodology development including MCP for dose-finding and Go No Go decision making via Bayesian framework.
+      - Contribute to the success launch of the first Rare Disease Drug for Hemophilia Qfitlia fitusiran.
   - position: Principal Biostatistician
     company_name: Edwards Lifesciences
     company_url: 'https://www.edwards.com/'
@@ -151,26 +152,19 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Herculean Team Award Finalist, Innovative Study Design Award Finalist, Operational Excellence Award Finalist
+    url: https://www.edwards.com/
+    date: '2023-03-01'
+    awarder: Edwards Lifesciences    
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+      For excellent performance as team member, independent contributor, and collaborator. 
   - title: Outstanding Graduate Student
     url: ''
     date: '2017-05-01'
     awarder: Washington Statistical Society
     icon: ''
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
     summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      For the annual recognition of best PhD student award in DC, Maryland, and Virginia area.
 ---
 
 ## About Me
