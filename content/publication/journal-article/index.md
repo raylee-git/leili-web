@@ -1,5 +1,5 @@
 ---
-title: "An example journal article"
+title: "Ancestral inference for branching processes in random environments and an application to polymerase chain reaction"
 authors:
 - Anand N Vidyashankar
 - Lei Li
@@ -24,7 +24,7 @@ publication_short: ""
 abstract: Branching processes in random environments arise in a variety of applications such as biology, finance, and other contemporary scientific areas. Motivated by these applications, this article investigates the problem of ancestral inference. Specifically, the article develops point and interval estimates for the mean number of ancestors initiating a branching process in i.i.d. random environments and establishes their asymptotic properties when the number of replications diverges to infinity. These results are then used to quantitate the number of DNA molecules in a genetic material using data from polymerase chain reaction experiments. Numerical experiments and data analyses are included to support the proposed methods. An R software package for implementing the methods of this manuscript is also included.
 
 # Summary. An optional shortened abstract.
-summary: Ancestral Inference, BPRE
+summary: Ancestral Inference
 
 tags:
 - Source Themes
@@ -32,7 +32,7 @@ featured: false
 
 # links:
 # - name: ""
-url: https://www.tandfonline.com/doi/full/10.1080/15326349.2019.1588133?casa_token=sDyVFYPhs9UAAAAA%3AY1dd2NopXywmZm2IjYl8eYoVpfT8YPHsJbC5lD9umhiPDb9u2oHQih1DMSnWj613uheYV4vkgtfpbA
+# url: https://www.tandfonline.com/doi/full/10.1080/15326349.2019.1588133?casa_token=sDyVFYPhs9UAAAAA%3AY1dd2NopXywmZm2IjYl8eYoVpfT8YPHsJbC5lD9umhiPDb9u2oHQih1DMSnWj613uheYV4vkgtfpbA
 # url_pdf: http://arxiv.org/pdf/1512.04133v1
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 url_dataset: ''
