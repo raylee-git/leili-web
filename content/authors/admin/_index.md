@@ -76,7 +76,7 @@ education:
     summary: |
             
 work:
-- position: AI, Stats, Biostats Consultant
+- position: AI Stats and Biostats Consultant
     company_name: ''
     company_url: ''
     company_logo: ''
