@@ -34,7 +34,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:sddxlilei@gmail.com'
     label: E-mail Me
-  - icon: brands/x
+  # - icon: brands/x
     url: https://twitter.com/GetResearchDev
   # - icon: brands/instagram
     url: https://www.instagram.com/
@@ -44,8 +44,7 @@ profiles:
     url: https://www.linkedin.com/
   # - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  # - icon: academicons/orcid
-    url: https://orcid.org/
+  
 
 interests:
   - Deep Learning
