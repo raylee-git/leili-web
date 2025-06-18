@@ -82,7 +82,7 @@ work:
     summary: |-
       Responsibilities include:
       - Provide AI, stats, and biostats technical methodology consultant on freelancer platform such as Guidepoint and G2G.
-      - Provide regulatory compliance advice for biostats and clinical trials, including sample size calculation, real world evidence study, mixed modeling, sequential design. 
+      - Provide regulatory compliance advice for biostats and clinical trials, including sample size calculation, real world evidence study, data imputation, mixed modeling, Frequentist and Bayesian sequential design, etc. 
   - position: Statistical Project Leader Deputy Director 
     company_name: Sanofi
     company_url: 'https://www.sanofi.com/en'
