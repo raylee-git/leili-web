@@ -1,13 +1,3 @@
-.hero .hero-title,
-.hero .hero-subtitle,
-.hero .hero-lead,
-.hero .hero-buttons,
-.hero .hero-text,
-.hero p,
-.hero span,
-.hero a {
-  color: #000 !important;
-}
 
 body {
   background-color: red !important;
