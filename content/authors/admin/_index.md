@@ -60,16 +60,15 @@ education:
     date_end: 2020-05-30
     summary: |
       Thesis on Robust Inference for Data with Latent Structure. Supervised by [Prof Anand N Vidyashankar](https://anandnv.squarespace.com/). Presented papers at statistical conferences such as JSM with the contributions being published in peer reviewed stats journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+    # button:
+    #   text: 'Read Thesis'
+    #   url: 'https://example.com'
   - area: MS Statistics
     institution: The George Washington University
     date_start: 2013-08-26
     date_end: 2015-05-31
     summary: |
       Took graduate level courses from both Mathematical and Statistical Department
-
   - area: BS Mathematics
     institution: Shandong University
     date_start: 2009-09-01
@@ -135,10 +134,6 @@ Software skills:
         description: ''
         percent: 100
         icon: cat
-      - name: Vacation
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
   - name: English
