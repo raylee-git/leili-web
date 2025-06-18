@@ -78,7 +78,7 @@ education:
 work:
   - position: AI Stats Biostats Consultant
     date_start: 2023-01-01
-    
+    date_end:''
   - position: Statistical Project Leader Deputy Director 
     company_name: Sanofi
     company_url: 'https://www.sanofi.com/en'
