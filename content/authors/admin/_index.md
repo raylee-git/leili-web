@@ -76,6 +76,17 @@ education:
     summary: |
             
 work:
+- position: Statistical Project Leader Deputy Director 
+    company_name: Sanofi
+    company_url: 'https://www.sanofi.com/en'
+    company_logo: ''
+    date_start: 2023-05-26
+    date_end: 2025-04-02
+    summary: |-
+      Responsibilities include:
+      - Statistical Leader for vaccine clinical trials varying from translational studies to phase I-III studies.
+      - Innovative group methodology development including MCP for dose-finding and Go No Go decision making via Bayesian framework.
+      - Contribute to the success launch of the first Rare Disease Drug for Hemophilia Qfitlia fitusiran.
   - position: Statistical Project Leader Deputy Director 
     company_name: Sanofi
     company_url: 'https://www.sanofi.com/en'
