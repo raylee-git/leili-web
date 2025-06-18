@@ -7,6 +7,8 @@ title: 'Robust Inference after Random Projections via Hellinger Distance for Loc
 authors:
   - Lei Li
   - Anand N Vidyashankar
+  - Guoqing Diao
+  - Ejaz Ahmed
 
 # Author notes (optional)
 author_notes:
