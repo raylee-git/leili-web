@@ -36,7 +36,7 @@ sections:
       subtitle: ''
       text: |-
         Aim to provide high quality AI, Stats, and Biostats consultant service.
-        Please reach out to collaborate 😃
+        Please reach out for inquiry 😃
     design:
       columns: '1'
   - block: collection
