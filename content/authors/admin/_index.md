@@ -76,16 +76,6 @@ education:
     summary: |
             
 work:
-- position: AI Stats and Biostats Consultant
-    company_name: ''
-    company_url: ''
-    company_logo: ''
-    date_start: 2023-01-01
-    date_end: ''
-    summary: |-
-      Independent Consultant:
-      - Provide AI, stats, and biostats technical methodology consultant on freelancer platform such as Guidepoint and G2G.
-      - Provide regulatory compliance advice for biostats and clinical trials, including sample size calculation, real world evidence study, mixed modeling, sequential design.
   - position: Statistical Project Leader Deputy Director 
     company_name: Sanofi
     company_url: 'https://www.sanofi.com/en'
