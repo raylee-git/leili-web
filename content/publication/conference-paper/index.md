@@ -36,7 +36,7 @@ abstract: Big data and streaming data are encountered in a variety of contempora
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - compressed data, Hellinger distance, representation formula, iterated limits, influence function, consistency, asymptotic normality, location-scale family
+  - High Dimension Reuction, Robust Inference
 
 # Display this page in the Featured widget?
 featured: true
