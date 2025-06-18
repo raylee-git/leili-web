@@ -25,16 +25,16 @@ publishDate: '2019-03-29T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *Entropy*
+# publication_short: In *ICW*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Big data and streaming data are encountered in a variety of contemporary applications in business and industry. In such cases, it is common to use random projections to reduce the dimension of the data yielding compressed data. These data however possess various anomalies such as heterogeneity, outliers, and round-off errors which are hard to detect due to volume and processing challenges. This paper describes a new robust and efficient methodology, using Hellinger distance, to analyze the compressed data. Using large sample methods and numerical experiments, it is demonstrated that a routine use of robust estimation procedure is feasible. The role of double limits in understanding the efficiency and robustness is brought out, which is of independent interest.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-  - Large Language Models
+  - compressed data, Hellinger distance, representation formula, iterated limits, influence function, consistency, asymptotic normality, location-scale family
 
 # Display this page in the Featured widget?
 featured: true
