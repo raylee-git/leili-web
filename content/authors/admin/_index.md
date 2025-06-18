@@ -77,9 +77,6 @@ education:
             
 work:
   - position: AI Stats and Biostats Consultant
-      company_name: ''
-      company_url: ''
-      company_logo: ''
       date_start: 2023-01-01
       date_end: 2025-12-01
       summary: |-
