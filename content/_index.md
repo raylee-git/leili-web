@@ -36,9 +36,6 @@ sections:
       subtitle: ''
       text: |-
         Aim to provide high quality AI, Stats, and Biostats consultant service.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
         Please reach out to collaborate 😃
     design:
       columns: '1'
