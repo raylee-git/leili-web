@@ -1,14 +1,10 @@
-/* Force all hero text to black */
 .hero .hero-title,
 .hero .hero-subtitle,
 .hero .hero-lead,
 .hero .hero-buttons,
-.hero .hero-text {
-  color: #000 !important;
-}
-
-.hero a,
+.hero .hero-text,
 .hero p,
-.hero span {
+.hero span,
+.hero a {
   color: #000 !important;
 }
