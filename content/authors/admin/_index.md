@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 李磊
+# title: 李磊
 avatar: avatar.jpg
 
 # Name pronunciation (optional)
@@ -34,17 +34,17 @@ profiles:
   - icon: at-symbol
     url: 'mailto:sddxlilei@gmail.com'
     label: E-mail Me
-  - icon: brands/x
+  # - icon: brands/x
     url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
+  # - icon: brands/instagram
     url: https://www.instagram.com/
-  - icon: brands/github
+  # - icon: brands/github
     url: https://github.com/gcushen
-  - icon: brands/linkedin
+  # - icon: brands/linkedin
     url: https://www.linkedin.com/
-  - icon: academicons/google-scholar
+  # - icon: academicons/google-scholar
     url: https://scholar.google.com/
-  - icon: academicons/orcid
+  # - icon: academicons/orcid
     url: https://orcid.org/
 
 interests:
