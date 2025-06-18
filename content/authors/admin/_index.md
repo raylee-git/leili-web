@@ -81,7 +81,7 @@ work:
       company_url: ''
       company_logo: ''
       date_start: 2023-01-01
-      date_end: ''
+      date_end: 2025-12-01
       summary: |-
         Independent Consultant:
         - Provide AI, stats, and biostats technical methodology consultant on freelancer platform such as Guidepoint and G2G.
