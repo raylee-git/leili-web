@@ -36,7 +36,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-url_slides: /static/uploads/Group_Sequential_Design_Slide (3).pdf
+url_slides: /uploads/Group_Sequential_Design_Slide_3.pdf
   
 
 #links:
@@ -45,7 +45,7 @@ url_slides: /static/uploads/Group_Sequential_Design_Slide (3).pdf
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
-url_pdf: /static/uploads/Group_Sequential_Design_Slide (3).pdf
+url_pdf: /uploads/Group_Sequential_Design_Slide_3.pdf
 # url_slides: 'https://slideshare.net'
 # url_video: 'https://youtube.com'
 
