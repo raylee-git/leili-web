@@ -1,7 +1,7 @@
 ---
-title: Example Talk
+title: Group Sequential Design with Conditional Power Approach - A refresh
 
-event: Hugo Blox Builder Conference
+event: Sequential Design Tutorial Series
 event_url: https://example.org
 
 location: Hugo Blox Builder HQ
