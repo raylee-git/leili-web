@@ -4,12 +4,12 @@ title: Group Sequential Design with Conditional Power Approach - A refresh
 event: Sequential Design Tutorial Series
 event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+location: ''
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: ''
+  city: ''
+  region: ''
+  postcode: ''
   country: United States
 
 summary: This is an overview of sequential design using conditional power approach.
@@ -17,8 +17,8 @@ abstract: ''
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2025-06-19T13:00:00Z'
+date_end: '2099-06-01T15:00:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
@@ -35,6 +35,9 @@ featured: false
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
+
+url_slides: ''
+  
 
 #links:
 #  - icon: twitter
