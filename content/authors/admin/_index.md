@@ -22,8 +22,6 @@ highlight_name: true
 
 # Role/position/tagline
 role: AI and Stats Consultant
-email: leilibusiness@gmail.com
-phone: +1(302)685-7559
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -182,4 +180,7 @@ Lei Li is an AI and Statistical Consultant with industry experience at Food and 
 His current work focuses on applying advanced AI techniques to diverse areas such as automated stock price modeling, clinical trial automation delivery (including SAP, table, listing, and figure [TLF] generation), and biomarker analysis.
 
 Academically, his interests span reinforcement learning, diffusion models, transformer architectures, high-dimensional statistics, robust inference, causal inference, Bayesian inference, and sequential trial design.
+
+email: leilibusiness@gmail.com
+phone: +1(302)685-7559
 
