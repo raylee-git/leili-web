@@ -77,7 +77,7 @@ education:
 
 Contact:
   - 302-685-7559
-  - leilibusiness@gmail.com
+  - leilibusiness@gmail.com (preferred)
             
 work:
   - position: AI Stats Biostats Consultant
