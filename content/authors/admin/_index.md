@@ -5,7 +5,7 @@ avatar: avatar.jpg
 
 
 # Name pronunciation (optional)
-name_pronunciation: Lei Li
+# name_pronunciation: Lei Li
 
 # Full name (for SEO)
 # first_name: Lei 
