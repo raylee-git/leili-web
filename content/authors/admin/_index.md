@@ -182,5 +182,6 @@ His current work focuses on applying advanced AI techniques to diverse areas suc
 Academically, his interests span reinforcement learning, diffusion models, transformer architectures, high-dimensional statistics, robust inference, causal inference, Bayesian inference, and sequential trial design.
 
 email: leilibusiness@gmail.com
+
 phone: +1(302)685-7559
 
