@@ -1,7 +1,8 @@
 ---
 # Display name
-# title: 李磊
+title: Lei Li
 avatar: avatar.jpg
+
 
 # Name pronunciation (optional)
 name_pronunciation: Lei Li
@@ -22,6 +23,9 @@ highlight_name: true
 
 # Role/position/tagline
 role: AI and Stats Consultant
+
+email: leilibusiness@gmail.com
+phone: +1(302)685-7559
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
