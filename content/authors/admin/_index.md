@@ -74,6 +74,10 @@ education:
     date_start: 2009-09-01
     date_end: 2013-06-30
     summary: |
+
+Contact:
+  - 302-685-7559
+  - leilibusiness@gmail.com
             
 work:
   - position: AI Stats Biostats Consultant
