@@ -8,8 +8,8 @@ avatar: avatar.jpg
 name_pronunciation: Lei Li
 
 # Full name (for SEO)
-first_name: Lei 
-last_name: Li
+# first_name: Lei 
+# last_name: Li
 
 # Status emoji
 status:
