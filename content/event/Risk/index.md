@@ -22,7 +22,7 @@ abstract: ''
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2019-07-31T00:00:00Z'
+publishDate: '2017-07-24T00:00:00Z'
 
 authors:
   - admin
@@ -36,7 +36,7 @@ featured: false
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #   focal_point: Right
 
-url_slides: /uploads/Mixture_JSM_2019.pdf
+url_slides: /uploads/ReRisk2017.pdf
   
 
 #links:
@@ -45,7 +45,7 @@ url_slides: /uploads/Mixture_JSM_2019.pdf
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
-url_pdf: /uploads/Mixture_JSM_2019.pdf
+url_pdf: /uploads/ReRisk2017.pdf
 # url_slides: 'https://slideshare.net'
 # url_video: 'https://youtube.com'
 
