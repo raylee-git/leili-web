@@ -2,7 +2,7 @@
 title: Re-Identification Risk Assessment in Healthcare data
 
 event: Joint Statistical Meeting 2017
-# event_url: https://example.org
+event_url: https://www.amstat.org/meetings/joint-statistical-meetings
 
 location: ''
 address:
@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: United States
 
-summary: We propose several new metrics for the re-identification risks in healthcare data
+summary: We propose several new metrics for the reidentification risks in healthcare data
 abstract: ''
 
 # Talk start and end times.
