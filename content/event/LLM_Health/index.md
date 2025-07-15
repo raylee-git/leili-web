@@ -36,7 +36,7 @@ featured: false
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #   focal_point: Right
 
-url_slides: /uploads/LLM_in_Healthcare.pdf
+url_slides: /uploads/LLM_in_Healthcare.pptx
   
 
 #links:
@@ -45,7 +45,7 @@ url_slides: /uploads/LLM_in_Healthcare.pdf
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
-url_pdf: /uploads/LLM_in_Healthcare.pdf
+url_pdf: /uploads/LLM_in_Healthcare.pptx
 # url_slides: 'https://slideshare.net'
 # url_video: 'https://youtube.com'
 
