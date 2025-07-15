@@ -1,7 +1,7 @@
 ---
 title: Robust Divergence Method for Finite Mixture Regression
 
-# event: NA
+event: Joint Statistical Meeting 2019
 # event_url: https://example.org
 
 location: ''
