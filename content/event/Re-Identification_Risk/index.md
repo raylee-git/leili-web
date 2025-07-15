@@ -1,7 +1,7 @@
 ---
 title: Re-Identification Risk Assessment in Healthcare data
 
-# event: NA
+event: Joint Statistical Meeting 2017
 # event_url: https://example.org
 
 location: ''
