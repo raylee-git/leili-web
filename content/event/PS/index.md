@@ -45,7 +45,7 @@ url_slides: /uploads/PS.pdf
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
-url_pdf: /uploads/Group_Sequential_Design_Slides_3.pdf
+url_pdf: /uploads/PS.pdf
 # url_slides: 'https://slideshare.net'
 # url_video: 'https://youtube.com'
 
