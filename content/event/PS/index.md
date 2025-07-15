@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: United States
 
-summary: This is an overview of sequential design using conditional power approach.
+summary: This is an an introduction of propensity score methodology with application to real world evidence.
 abstract: ''
 
 # Talk start and end times.
