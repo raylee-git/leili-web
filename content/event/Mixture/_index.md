@@ -1,5 +1,5 @@
 ---
-title: Propensity Score Design - Indroduction and Tutorials
+title: Robust Divergence Method for Finite Mixture Regression
 
 # event: NA
 # event_url: https://example.org
@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: United States
 
-summary: This is an overview of sequential design using conditional power approach.
+summary: We propose new robust EM type algorithm for finite mixture regression model.
 abstract: ''
 
 # Talk start and end times.
@@ -22,7 +22,7 @@ abstract: ''
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-05-01T00:00:00Z'
+publishDate: '2019-07-31T00:00:00Z'
 
 authors:
   - admin
@@ -36,7 +36,7 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
   focal_point: Right
 
-url_slides: /uploads/PS.pdf
+url_slides: /uploads/Mixture_JSM_2019.pdf
   
 
 #links:
@@ -45,7 +45,7 @@ url_slides: /uploads/PS.pdf
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
-url_pdf: /uploads/PS.pdf
+url_pdf: /uploads/Mixture_JSM_2019.pdf
 # url_slides: 'https://slideshare.net'
 # url_video: 'https://youtube.com'
 
@@ -62,6 +62,6 @@ slides: ""
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects:
-  - Propensity Score Design
+  - Mixture Models
 ---
 
