@@ -1,8 +1,8 @@
 ---
 title: Propensity Score Design - Indroduction and Tutorials
 
-event: NA
-event_url: https://example.org
+# event: NA
+# event_url: https://example.org
 
 location: ''
 address:
