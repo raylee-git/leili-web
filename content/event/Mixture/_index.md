@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: United States
 
-summary: We propose new robust EM type algorithm for finite mixture regression model.
+summary: We propose new robust EM type algorithms for finite mixture regression model.
 abstract: ''
 
 # Talk start and end times.
@@ -32,9 +32,9 @@ tags: []
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+# image:
+#   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+#   focal_point: Right
 
 url_slides: /uploads/Mixture_JSM_2019.pdf
   
