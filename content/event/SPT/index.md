@@ -22,7 +22,7 @@ abstract: ''
 # all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2025-08-02T00:00:00Z'
+publishDate: '2025-07-02T00:00:00Z'
 
 authors:
   - admin
