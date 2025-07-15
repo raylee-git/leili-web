@@ -2,7 +2,7 @@
 title: Studentized Permutation Test with Application to Vaccine Study
 
 event: Joint Statistical Meeting 2025
-# event_url: https://example.org
+event_url: https://www.amstat.org/meetings/joint-statistical-meetings
 
 location: ''
 address:
@@ -36,7 +36,7 @@ featured: false
 #   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
 #   focal_point: Right
 
-url_slides: /uploads/Mixture_JSM_2019.pdf
+url_slides: /uploads/SPT.pdf
   
 
 #links:
@@ -45,7 +45,7 @@ url_slides: /uploads/Mixture_JSM_2019.pdf
 #    name: Follow
 #    url: https://twitter.com/georgecushen
 # url_code: 'https://github.com'
-url_pdf: /uploads/Mixture_JSM_2019.pdf
+url_pdf: /uploads/SPT.pdf
 # url_slides: 'https://slideshare.net'
 # url_video: 'https://youtube.com'
 
