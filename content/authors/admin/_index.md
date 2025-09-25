@@ -25,7 +25,7 @@ role: AI and Stats Consultant
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: NovaStat AI
+  - name: LunarAI LLC
     url: ''
 
 # Social network links
