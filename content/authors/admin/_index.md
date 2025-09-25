@@ -32,7 +32,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:leilibusiness@gmail.com'
+    url: 'mailto:lei.li@lunarai.llc'
     label: E-mail Me
   # - icon: brands/x
   #  url: https://twitter.com/GetResearchDev
@@ -77,7 +77,7 @@ education:
 
 Contact:
   - 302-685-7559
-  - leilibusiness@gmail.com (preferred)
+  - lei.li@lunarai.llc (preferred)
             
 work:
   - position: AI Stats Biostats Consultant
