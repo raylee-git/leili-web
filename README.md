@@ -26,7 +26,7 @@ The integrated [**Hugo Blox Builder**](https://hugoblox.com) and CMS makes it ea
 
 ## We ask you, humbly, to support this open source movement
 
-Today we ask you to defend the open source independence of the Hugo Blox Builder and themes 🐧
+Today we ask you to defend the open source independence of the Hugo Blox Builder and themes
 
 We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
 
